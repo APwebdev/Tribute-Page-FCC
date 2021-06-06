@@ -1,0 +1,302 @@
+* {
+    font-family: Poppins;
+    text-decoration: none;
+    
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    border-radius: 5px;
+    background: transparent;
+    
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+    background-color: rgb(114, 114, 114);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #494949;
+}
+
+html {
+    margin: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: rgb(114, 114, 114);
+    color: #FFFFFF;
+    
+}
+
+footer {
+    margin: 0;
+}
+
+h1 {
+    margin: 0px;
+    font-size: 100px;
+}
+
+li {
+    list-style-type: none;
+}
+
+.header {
+    background-color: #1b1c1d;
+    color: #FFF;
+    padding: 100px 100px;
+    border-bottom: 3px #44ffff solid;
+}
+
+.header h2 {
+    font-size: 18px;
+}
+
+.basic-info {
+    width: 500px;
+    margin: 50px 300px;
+    padding-right: 5px;
+    border-left: 3px #44ffff solid;
+    
+    
+
+}
+
+.aqua {
+    color: #44ffff;
+    font-weight: strong;
+}
+
+.basic-info-box2 {
+    width: 500px;
+    margin: 50px 300px;
+    padding-right: 5px;
+    border-right: 3px #44ffff solid;
+}
+
+.tribute-links {
+    margin-top: 10px;
+}
+
+.center-aligned-column {
+    display: flex;
+    justify-content: center;
+    
+}
+
+#tribute-link {
+    border: 1px #44ffff solid;
+    color: #FFF;
+    
+}
+
+#tribute-link-youtube {
+    border: 1px #44ffff solid;
+    color: #FFF;
+}
+
+#tribute-link-books {
+    border: 1px #44ffff solid;
+    color: #FFF;
+}
+
+.fa-amazon {
+    padding: 25px 100px;
+    font-weight: 30px;
+    font-size: 23px;
+
+}
+
+.fa-youtube {
+    padding: 25px 100px;
+    font-weight: 30px;
+    font-size: 23px;
+}
+
+.fa-wikipedia-w {
+    padding: 25px 100px;
+    font-weight: 30px;
+    font-size: 23px;
+    
+}
+
+.column-background {
+    background-color: #1b1c1d;
+    margin-top: 50px;
+    padding: 45px;
+    border-top: 2px #44ffff solid;
+    border-bottom: 2px #44ffff solid;
+}
+
+
+.career-info {
+    margin-top: 25px;
+    font-size: 40px;
+}
+
+.timeline-panel {
+    margin-left: 500px;
+    border: 1px #44ffff solid;
+    border-radius: 30px;
+    width: 320px;
+    height: auto;
+
+}
+
+.timeline-panel2 {
+    margin-left: 800px;
+    border: 1px #44ffff solid;
+    border-radius: 30px;
+    width: 320px;
+    height: auto;
+
+}
+
+.timeline-panel3 {
+    margin-left: 1105px;
+    border: 1px #44ffff solid;
+    border-radius: 30px;
+    width: 320px;
+    height: auto;
+
+}
+
+.timeline-panel4 {
+    margin-left: 800px;
+    border: 1px #44ffff solid;
+    border-radius: 30px;
+    width: 320px;
+    height: auto;
+
+}
+
+
+.timeline-panel5 {
+    margin-left: 500px;
+    border: 1px #44ffff solid;
+    border-radius: 30px;
+    width: 320px;
+    height: auto;
+
+}
+
+.timeline-panel6 {
+    margin-left: 800px;
+    border: 1px #44ffff solid;
+    border-radius: 30px;
+    width: 320px;
+    height: auto;
+
+}
+
+.timeline-panel7 {
+    margin-left: 1105px;
+    border: 1px #44ffff solid;
+    border-radius: 30px;
+    width: 320px;
+    height: auto;
+
+}
+
+.timeline-panel8 {
+    margin-left: 800px;
+    border: 1px #44ffff solid;
+    border-radius: 30px;
+    width: 320px;
+    height: auto;
+
+}
+
+.timeline-panel9 {
+    margin-left: 500px;
+    border: 1px #44ffff solid;
+    border-radius: 30px;
+    width: 320px;
+    height: auto;
+
+}
+
+.timeline-panel10 {
+    margin-left: 800px;
+    border: 1px #44ffff solid;
+    border-radius: 30px;
+    width: 320px;
+    height: auto;
+
+}
+
+.timeline-panel11 {
+    margin-left: 1105px;
+    border: 1px #44ffff solid;
+    border-radius: 30px;
+    width: 320px;
+    height: auto;
+
+}
+
+.timeline-panel12 {
+    margin-left: 800px;
+    border: 1px #44ffff solid;
+    border-radius: 30px;
+    width: 320px;
+    height: auto;
+
+}
+
+.timeline-panel13 {
+    margin-left: 500px;
+    border: 1px #44ffff solid;
+    border-radius: 30px;
+    width: 320px;
+    height: auto;
+
+}
+
+
+.footer {
+    background-color: #1b1c1d;
+    margin: 40px 0 0 0;
+    padding: 60px 60px 15px 60px;
+    border-top: #44ffff 3px solid;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.about-author {
+    border-right: #44ffff 1px solid;
+    padding-right: 100px;
+}
+
+.tech-used {
+    border-right: #44ffff 1px solid;
+    padding-right: 100px;
+    
+}
+
+
+
+
+#img-div {
+    float: right;
+    display: block;
+    margin-top: 140px;
+    margin-right: 450px;
+    text-align: center;
+}
+
+#image {
+    display: block;
+    border-radius: 15%;
+    box-shadow: 2px 5px 10px #44ffff;
+    max-width: 400px;
+    height: auto;
+    margin: auto;
+  }
